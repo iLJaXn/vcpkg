@@ -2,7 +2,7 @@ vcpkg_from_github(
     OUT_SOURCE_PATH SOURCE_PATH
     REPO OSGeo/PROJ
     REF 8.1.1
-    SHA512 a26d4191905ac01ce8052290dbd065038bb59bdf5ee4ead0b8ba948de7fcc9d7bffd897533a07ffc2e9824b59210fa2a6cec652e512794a9ef9b07ce40e7e213
+    SHA512 1f18ad83bae40c6c910900a062bd41c331838add6eebb7e83b4784e4e06fbf48706cee24aadbefe0f138f081ecc02e93a2b6fd45a84806e1372bf2997dafa852
     HEAD_REF master
     PATCHES
         fix-filemanager-uwp.patch
